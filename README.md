@@ -5,6 +5,8 @@ This repository contains the exploratory simulations and plots for the self-bala
 ## Contents
 
 - `simulation.ipynb`: main notebook for empirical experiments, including convergence, predictability, and citizens' assembly simulations.
+- `health_inspections.ipynb`: Analyzes the performance of the self-balancing sampler on the NYC OpenData [Health Inspections Dataset](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data).
+- `data`: Relevant data used in `health_inspections.ipynb`. 
 
 ## Usage
 
